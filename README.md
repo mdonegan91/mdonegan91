@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact: **I have a golden retriever named Andy 🐕**
 
-![Molly Roses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&bg_color=00000000)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/molly-rose-donegan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="molly-rose-donegan" height="30" width="40" /></a>
@@ -49,3 +47,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonegan91&theme=radical&layout=compact" />
+</div>
