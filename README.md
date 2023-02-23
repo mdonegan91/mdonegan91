@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Molly Rose</h1>
 <h3 align="center">A passionate Junior Developer from Portland, OR</h3>
 
-- 🔭 I’m currently working on [Queen Attack](https://github.com/mdonegan91/QueenAttack)
+- 🔭 I’m currently working on: [Queen Attack](https://github.com/mdonegan91/QueenAttack)
 
-- 🌱 I’m currently learning [C#](https://github.com/mdonegan91/ScrabbleScorer)
+- 🌱 I’m currently learning: [C#](https://github.com/mdonegan91/ScrabbleScorer)
 
-- 📫 How to reach me **mollyrdonegan@gmail.com**
+- 📫 How to reach me: **mollyrdonegan@gmail.com**
 
 - 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1gy27X7fgiIU-qfX4-JHjviWY1-ZRTW3F/view?usp=sharing)
 
@@ -30,9 +30,6 @@
 <p align="center">
 <a href="https://github.com/mdonegan91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&theme=dracula&hide=issues&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/mdonegan91/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonegan91&layout=compact&theme=dracula&hide_border=true" />
 </a>
 </p>
 
