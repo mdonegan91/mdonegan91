@@ -48,9 +48,4 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<a href="https://github.com/mdonegan91/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdonegan91&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/mdonegan91/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdonegan91&repo=convoychat" />
-</a>
+![Molly Roses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&bg_color=00000000)
