@@ -48,7 +48,8 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
 ![Molly Roses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&theme=transparent)
- </p>
-
+ 
+<a href="https://github.com/mdonegan91/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdonegan91&repo=github-readme-stats" />
+</a>
