@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Molly Rose</h1>
-<h3 align="center">A passionate junior developer from Portland, OR</h3>
+<h1 align="center">Hi 👋 I'm Molly Rose</h1>
+<h3 align="center">A passionate Junior Developer from Portland, OR</h3>
 
 - 🔭 I’m currently working on [Queen Attack](https://github.com/mdonegan91/QueenAttack)
 
@@ -9,7 +9,9 @@
 
 - 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1gy27X7fgiIU-qfX4-JHjviWY1-ZRTW3F/view?usp=sharing)
 
-- ⚡ Fun fact: **I have a golden retriever named Andy**
+- ⚡ Fun fact: **I have a golden retriever named Andy 🐕**
+
+![Molly Roses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&bg_color=00000000)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -47,5 +49,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-![Molly Roses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&bg_color=00000000)
