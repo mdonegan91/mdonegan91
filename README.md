@@ -48,6 +48,6 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mdonegan91&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdonegan91&theme=tokyonight)
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonegan91&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
