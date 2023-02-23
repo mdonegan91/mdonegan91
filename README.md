@@ -49,6 +49,6 @@
 </p>
 
 <h3 align="center">
-[![Molly Roses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&theme=transparent)
+![Molly Roses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&theme=transparent)
 <h3>
 
