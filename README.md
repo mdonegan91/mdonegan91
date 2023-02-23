@@ -17,6 +17,7 @@
 <a href="https://discord.gg/#1874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1874" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="center">Frameworks and Libraries:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
+
 
 <p align="center">
 <a href="https://github.com/mdonegan91/github-readme-stats">
