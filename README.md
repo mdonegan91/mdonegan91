@@ -30,8 +30,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/mdonegan91/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&theme=dracula&hide=issues&hide_border=true&count_private=true" />
+<a href="https://github.com/mdonegan91">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&bg_color=30,cc2b5e,753a88&title_color=fff&text_color=fff&icon_color=dfcfff&count_private=true&hide_title=true" />
 </a>
-</p>
 
