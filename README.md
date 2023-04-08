@@ -9,7 +9,7 @@
 
 - 📄 Learn about my experiences: [Resume](https://mdonegan91.github.io/MollyRoseDonegan_Resume/)
 
-- ⚡ Fun fact: **I have a spunky golden retriever named Andy 🐕**
+- ⚡ Fun fact: **I have a spunky golden retriever named Andy 🐕🎀**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
