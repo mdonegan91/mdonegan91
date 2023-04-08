@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **mollyrdonegan@gmail.com**
 
-- 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1T11E-TEgJf3aA7MSvdeWgXmnBfcQpixc/view?usp=sharing)
+- 📄 Learn about my experiences: [Resume](https://mdonegan91.github.io/MollyRoseDonegan_Resume/)
 
 - ⚡ Fun fact: **I have a spunky golden retriever named Andy 🐕**
 
