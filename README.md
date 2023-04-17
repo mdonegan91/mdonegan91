@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [The Hidden Garden](https://github.com/mdonegan91/HiddenGardenClient.Solution)
 
-- 🌱 I’m currently learning: [C#](https://github.com/mdonegan91/ScrabbleScorer)
+- 🌱 I’m currently learning: [React](https://github.com/mdonegan91/Social-Media)
 
 - 📫 How to reach me: **mollyrdonegan@gmail.com**
 
