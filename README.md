@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Molly Rose</h1>
 <h3 align="center">A passionate Junior Developer from Portland, OR</h3>
 
-- 🔭 I’m currently working on: [The Hidden Garden](https://github.com/mdonegan91/HiddenGardenClient.Solution)
+- 🔭 I’m currently working on: [SetMatch](https://github.com/mdonegan91/HiddenGardenClient.Solution](https://github.com/mdonegan91/SetMatch)
 
 - 🌱 I’m currently learning: [React](https://github.com/mdonegan91/Plantopia)
 
