@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [SetMatch](https://github.com/mdonegan91/SetMatch)
 
-- 🌱 I’m currently learning: [Python](https://github.com/mdonegan91/microblog)
+- 🌱 I’m currently learning: [React](https://github.com/mdonegan91/Plantopia)
 
 - 📫 How to reach me: **mollyrdonegan@gmail.com**
 
