@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 I'm Molly Rose</h1>
-<h3 align="center">A passionate Junior Developer from Portland, OR</h3>
+<h1 align="center">Hi. I'm Molly Rose</h1>
 
 - 🔭 I’m currently working on: [SetMatch](https://github.com/mdonegan91/SetMatch)
 
@@ -8,8 +7,6 @@
 - 📫 How to reach me: **mollyrdonegan@gmail.com**
 
 - 📄 Learn about my experiences: [Resume](https://mdonegan91.github.io/MollyRoseDonegan_Resume/)
-
-- ⚡ Fun fact: **I have a spunky golden retriever named Andy 🐕 🎀**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
