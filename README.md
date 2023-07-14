@@ -1,4 +1,4 @@
-<h1 align="center">Hi. I'm Molly Rose</h1>
+<h1 align="center">Hi, I'm Molly Rose</h1>
 
 - 🔭 I’m currently working on: [SetMatch](https://github.com/mdonegan91/SetMatch)
 
