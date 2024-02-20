@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Molly Rose</h1>
 
-- 🔭 I’m currently working on: [SetMatch](https://github.com/mdonegan91/SetMatch)
+- 🔭 I’m currently working on: [Sproutbox](https://sproutbox.co/)
 
-- 🌱 I’m currently learning: [React](https://github.com/mdonegan91/Plantopia)
+- 🌱 I’m currently learning: [Advanced WordPress Development](https://wordpress.org/support/)
 
 - 📫 How to reach me: **mollyrdonegan@gmail.com**
 
@@ -13,13 +13,13 @@
 <a href="https://linkedin.com/in/molly-rose-donegan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="molly-rose-donegan" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Frameworks and Libraries:</h3>
+<h3 align="center">Frameworks and Technologies:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <br>
@@ -28,4 +28,3 @@
 <a href="https://github.com/mdonegan91">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdonegan91&show_icons=true&bg_color=30,cc2b5e,753a88&title_color=fff&text_color=fff&icon_color=dfcfff&count_private=true&hide_title=true" />
 </a>
-
